@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(230, 210, 99);
+}
+#principal{
+    text-align: center;
+    padding-top: 10%;
+}
+a{
+    text-decoration: none;
+}
